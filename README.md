@@ -102,3 +102,7 @@ go tool -- builds packages from source files in src and installs the resulting b
 
 ## Go Rules
   * No public or private keyword .Any variable/function/Constants that begins with capital letter means it will be exported.
+
+## Useful Free links i am following
+
+  * [Web application building with golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/02.4.html)
