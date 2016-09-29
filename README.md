@@ -30,12 +30,12 @@ go tool -- builds packages from source files in src and installs the resulting b
 ## Folder 002 - GO Basics - Source : [Free Book] (https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/02.2.html)
 
 ### Variables :
-  * Single Variable - var <varname> <type>
-  * Multiple Variables - var <varname1> <varname2> <varname3> type
-  * Variable with 1 value - var <varname> type = value
-  * Multiple Variables with values - var <varname1>, <varname2>, <varname3> type = value1, value2, value3
+  * Single Variable - var varname type
+  * Multiple Variables - var varname1 varname2 varname3 type
+  * Variable with 1 value - var varname type = value
+  * Multiple Variables with values - var varname1, varname2, varname3 type = value1, value2, value3
   * Another way to declare variables (only works inside functions ) is
-    * <varname1>, <varname2>, <varname3> __:=__ value1, value2, value3
+    * varname1, varname2, varname3 __:=__ value1, value2, value3
   * Variables declared but not used will give compilation errors.
 
 ### Constants :
