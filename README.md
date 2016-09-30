@@ -42,6 +42,8 @@ go tool -- builds packages from source files in src and installs the resulting b
   * Values that are determined during compile time and cannot be changed during
   run time.
 
+### What is type ?
+
 ### Boolean
   * Same as other lang -- takes  only 2 values --  True / False.
 
@@ -99,6 +101,52 @@ go tool -- builds packages from source files in src and installs the resulting b
 
 ### Pointers come back to my life  :P
 ... MTBW
+
+### Structs, embedded fields
+
+### Method -- function with an implicit first argument , called a receiver
+  * Syntax - func (r ReceiverType) funcname(args)(rseults)
+
+### Interface
+### Reflection
+
+
+### Concurrency , Goroutines, channels, buffered channels , range & close,
+### select, timeout
+
+
+## Go Keywords
+...MTBW
+
+  * import
+  * package
+  * if
+  * else
+  * for
+  * func
+  * map
+  * case
+  * type
+  * var
+  * const
+  * struct
+  * select
+  * return
+  * break
+  * continue
+  * switch
+  * const
+  * map
+  * interface
+  * go
+  * chan
+  * interface
+  * default
+  * defer
+  * range
+  * fallthrough
+  * goto  
+
 
 ## Go Rules
   * No public or private keyword .Any variable/function/Constants that begins with capital letter means it will be exported.
