@@ -154,3 +154,5 @@ go tool -- builds packages from source files in src and installs the resulting b
 ## Useful Free links i am following
 
   * [Web application building with golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/02.4.html)
+
+  * [Understanding Concurrency] -- (https://talks.golang.org/2012/waza.slide#60)
